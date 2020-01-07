@@ -1,0 +1,48 @@
+.jumbotron {
+    background: url("https://www.wallpaperflare.com/static/364/440/862/text-gradient-ultra-wide-typography-wallpaper.jpg")
+      no-repeat center center;
+    background-size: cover;
+    height: 50vh;
+  }
+  
+  .container {
+    margin-top: 20em;
+    margin-left: 50px;
+    color: orange;
+  }
+  
+  .how-section1 {
+    margin-top: -15%;
+    padding: 10%;
+  }
+  .how-section1 h4 {
+    color: #ffa500;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  .how-section1 .subheading {
+    color: #3931af;
+    font-size: 20px;
+  }
+  .how-section1 .row {
+    margin-top: 10%;
+  }
+  .how-img {
+    text-align: center;
+    vertical-align: middle; 
+
+  }
+  .how-img img {
+    width: 40%;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+  }
+  
+  .rowContainer {
+    box-shadow: 5px 5px 15px 1px rgba(0, 0, 0, 0.1);
+  }
+  
+  .textContainer {
+    margin-top: 1em;
+  }
+  
